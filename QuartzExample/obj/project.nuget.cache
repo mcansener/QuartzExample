@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "prnmgdPyvx3UNQ/uT1bUhCM4zWXNuSmDGMMxQvphiFMLcGP7n3hNYFhZM/l+1HD+bG+WuLFwdSX8oh7C/XKxOA==",
+  "success": true,
+  "projectFilePath": "D:\\flutter\\FlutterAPI\\QuartzExample\\QuartzExample\\QuartzExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcans\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\mcans\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\mcans\\.nuget\\packages\\quartz\\3.8.0\\quartz.3.8.0.nupkg.sha512",
+    "C:\\Users\\mcans\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\mcans\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\mcans\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\mcans\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\mcans\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mcans\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
